@@ -54,3 +54,4 @@ else:
 print(f"Su índice de masa corporal (IMC) es: {imc:.2f}") 
 print(feedback)
 print ("Has finalizado la ejecución")
+input ()
