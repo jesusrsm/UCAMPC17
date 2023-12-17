@@ -21,11 +21,15 @@ Las **referencias** utilizadas para los **rangos estándar del IMC** son:
 
 El desarrollo de este sencillo programa permite ejemplificar varios conceptos clave de la programación con Python:
 
-  Captura y validación de datos
-  Manejo de errores y excepciones
-  Realización de cálculos matemáticos
-  Evaluación de condiciones lógicas
-  Formateo de impressión de variables
+      Captura y validación de datos
+      
+      Manejo de errores y excepciones
+      
+      Realización de cálculos matemáticos
+      
+      Evaluación de condiciones lógicas
+      
+      Formateo de impressión de variables
   
 Si bien se trata de un programa pequeño, permite aplicar y consolidar conceptos que luego podrán extrapolarse a problemas de análisis de datos o desarrollos más complejos. La simplicidad del problema permite enfocarse en la técnica y buenas prácticas de programación. 
 
