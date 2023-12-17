@@ -13,8 +13,9 @@ Finalmente, se muestran todos los datos capturados y el resultado del análisis,
 
 Las **referencias** utilizadas para los **rangos estándar del IMC** son:
 
-  Organización Mundial de la Salud (OMS) [1]
-  National Heart, Lung and Blood Institute [2]
+    Organización Mundial de la Salud (OMS) [1]
+  
+    National Heart, Lung and Blood Institute [2]
 
 **Consideraciones**
 
